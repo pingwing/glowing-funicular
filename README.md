@@ -51,6 +51,7 @@ Backend service for uploading, resizing, storing and listing images.
 
 - API base URL: `http://localhost:3000/api`
 - Swagger UI: `http://localhost:3000/docs`
+- Uploaded images: `http://localhost:3000/uploads/<filename>`
 
 ---
 
