@@ -1,5 +1,6 @@
 {
-  "name": "futuremind-images-api",
+  "name": "recrutation-images-api",
+  "author": "Przemysław Gierski",
   "version": "1.0.0",
   "description": "Image upload and resizing API built with NestJS",
   "main": "dist/main.js",
